@@ -1,7 +1,7 @@
 # Global Population & Geopolitical Risk Dashboard
 
 ## 專案簡介
-本專案為「AI 工具應用能力實作考」之作品。主題為建立一個整合「全球人口預測」與「伊朗地緣政治風險」的分析儀表板，旨在展示 AI 工具在金融科技與資料分析領域的實務應用能力。
+本專案主題為建立一個整合「全球人口預測」與「伊朗地緣政治風險」的分析儀表板。
 
 ## 網站連結
 * **GitHub Pages 網址**: [(https://yuni0719.github.io/2026datascience/)]
